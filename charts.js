@@ -52,7 +52,7 @@ function buildMetadata(sample) {
 
   });
 }
-
+/*
 // 1. Create the buildCharts function.
 function buildCharts(sample) {
   // 2. Use d3.json to load and retrieve the samples.json file 
@@ -85,3 +85,4 @@ function buildCharts(sample) {
     
   });
 }
+*/
